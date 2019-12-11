@@ -1,0 +1,7 @@
+# Instalado:
+- npx create-react-app => criar o react
+- npm start => inicia o servidor
+- npm install axios => usado para instalar o axios
+
+# React:
+- state= {} => onde fica todas as variaveis que podem ser manipuladas
